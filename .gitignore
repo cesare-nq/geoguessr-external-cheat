@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.env
+.env.*
+.mitmproxy/
+*.pem
+*.key
+*.p12
+*.pfx
+MapsInterceptor/
+python_packages/
+live_maps_locations.html
+maps_last_update.txt
+maps_response_*.txt
